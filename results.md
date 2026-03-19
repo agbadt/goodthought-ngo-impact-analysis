@@ -16,4 +16,4 @@
 ![Query 2 Code](task2.png)
 
 **Output:**
-![Query 2 Result](result.png)
+![Query 2 Result](results.png)
